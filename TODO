@@ -1,0 +1,19 @@
+Project Management:
+    ☐ Make first github commit
+    ☐ Setup TODO vscode extension
+    ☐ Setup GitHub repository for stock app
+
+Coding:
+    ☐ Change background to match stock app
+    ☐ Convert bootstrap attributes to typed styles
+    ☐ Make the cards clickable into a focus view that has a chart over time of stock prices
+    ☐ Fix the view on mobile devices
+    ☐ Create run tasks for different screen sizes 
+
+Developer:
+    ☐ Use puppeteer to launch the compiled build for different screen sizes
+    ☐ Switch vscode launch tasks with npm puppeteer scripts
+
+Archive:
+  ✔ Create special output directory for compiled elm files @done(20-09-06 15:16) @project(Project Management)
+  ✔ Exclude node directories and compiled elm directories from todo search @done(20-09-06 13:38) @project(Project Management)
